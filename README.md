@@ -66,5 +66,4 @@ python sneakx.py serve -p mysecret --port 3000    # custom port
 | 19 | Admin lost on disconnect | Auto-transfer to next active user |
 
 ## Credits
-
-Based on [emilycodestar/cmd-chat](https://github.com/emilycodestar/cmd-chat). MIT License.
+. MIT License.
