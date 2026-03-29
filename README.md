@@ -92,9 +92,6 @@ python -m pytest tests/ -v
 
 29 tests covering crypto, models, stores, SRP handshake, and full TCP integration.
 
-## Credits
-
-Original project by [emilycodestar](https://github.com/emilycodestar/cmd-chat) (MIT License).
 
 ## License
 
