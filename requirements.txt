@@ -1,0 +1,5 @@
+cryptography>=42.0
+srp>=1.0.20
+rich>=13.0
+pytest>=7.0
+pytest-asyncio>=0.21
