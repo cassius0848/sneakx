@@ -2,7 +2,6 @@
 
 End-to-end encrypted terminal chat over TCP👾, with SRP (Secure Remote Password) authentication.
 
-> Based on [emilycodestar/cmd-chat](https://github.com/emilycodestar/cmd-chat). Rebuilt with security fixes, upgraded cryptography, and cleaner code.
 
 ## Features😶‍🌫️
 
