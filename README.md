@@ -1,10 +1,10 @@
 # sneak
 
-End-to-end encrypted terminal chat over TCP, with SRP (Secure Remote Password) authentication.
+End-to-end encrypted terminal chat over TCP👾, with SRP (Secure Remote Password) authentication.
 
 > Based on [emilycodestar/cmd-chat](https://github.com/emilycodestar/cmd-chat). Rebuilt with security fixes, upgraded cryptography, and cleaner code.
 
-## Features
+## Features😶‍🌫️
 
 - **Zero-knowledge password auth** — SRP protocol means the password is never transmitted
 - **End-to-end encryption** — server stores only ciphertext, cannot read messages
