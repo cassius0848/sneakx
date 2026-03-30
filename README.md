@@ -5,7 +5,8 @@ Encrypted tin-can telephone.
 One file. Copy anywhere. Run immediately.
 
 
-<img width="598" height="284" alt="20160524090942497" src="https://github.com/user-attachments/assets/2f8323a9-0cab-498f-9d6a-cb583455018b" />
+![1984-Big-Brother](https://github.com/user-attachments/assets/92be87cc-bb32-4717-8901-a313d755e26c)
+
 
 
 
