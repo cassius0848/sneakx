@@ -3,6 +3,8 @@
 Encrypted tin-can telephone.
 
 One file. Copy anywhere. Run immediately.
+<img width="598" height="284" alt="20160524090942497" src="https://github.com/user-attachments/assets/a2d28501-431a-452e-b010-f6f4b0e113c5" />
+
 
 ## Quick start
 
