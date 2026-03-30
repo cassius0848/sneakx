@@ -2,7 +2,7 @@
 
 Encrypted tin-can telephone.
 
-One file. Copy anywhere. Run immediately.
+simple file. Copy anywhere. Run immediately.
 
 
 ![1984-Big-Brother](https://github.com/user-attachments/assets/92be87cc-bb32-4717-8901-a313d755e26c)
